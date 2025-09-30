@@ -121,8 +121,8 @@ export default function HomePage() {
 
             {/* Description */}
             <p className="text-xl md:text-2xl text-white/70 mb-12 max-w-3xl mx-auto leading-relaxed">
-              We craft compelling campaigns that don&apos;t just capture attention—they capture hearts, minds, and market share. 
-              From brand identity to digital dominance, we&apos;re your strategic creative partner.
+              We craft compelling campaigns that don't just capture attention—they capture hearts, minds, and market share. 
+              From brand identity to digital dominance, we're your strategic creative partner.
             </p>
 
             {/* Stats Row */}
@@ -176,7 +176,7 @@ export default function HomePage() {
               Apex Creative Studio Services
             </h2>
             <p className="mt-4 text-xl text-gray-600 max-w-3xl mx-auto">
-              Elevate your brand with Apex Creative Studio&apos;s comprehensive marketing solutions. 
+              Elevate your brand with Apex Creative Studio's comprehensive marketing solutions. 
               Our award-winning team delivers measurable results through strategic creativity.
             </p>
           </div>
@@ -214,7 +214,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Creative Content Production</h3>
               <p className="text-gray-600">
-                Apex Creative Studio&apos;s award-winning team produces high-impact visual content, from video campaigns to interactive media that captivates audiences.
+                Apex Creative Studio's award-winning team produces high-impact visual content, from video campaigns to interactive media that captivates audiences.
               </p>
             </div>
 
@@ -226,7 +226,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Collaborative Consulting</h3>
               <p className="text-gray-600">
-                Experience Apex Creative Studio&apos;s collaborative design process where your vision meets our expertise to create full-service marketing solutions.
+                Experience Apex Creative Studio's collaborative design process where your vision meets our expertise to create full-service marketing solutions.
               </p>
             </div>
           </div>
@@ -273,7 +273,7 @@ export default function HomePage() {
                 ))}
               </div>
               <p className="text-gray-700 italic">
-                &quot;Apex Creative Studio transformed our brand presence completely. Their strategic approach to our digital marketing campaign resulted in a 340% increase in qualified leads within just 4 months. The team&apos;s creativity and data-driven insights are unmatched.&quot;
+                "Apex Creative Studio transformed our brand presence completely. Their strategic approach to our digital marketing campaign resulted in a 340% increase in qualified leads within just 4 months. The team's creativity and data-driven insights are unmatched."
               </p>
             </div>
 
@@ -298,7 +298,7 @@ export default function HomePage() {
                 ))}
               </div>
               <p className="text-gray-700 italic">
-                &quot;Working with Apex Creative Studio was a game-changer for our product launch. Their integrated marketing strategy across social media, content marketing, and PPC advertising helped us achieve 250% of our initial sales targets. Professional, innovative, and results-driven.&quot;
+                "Working with Apex Creative Studio was a game-changer for our product launch. Their integrated marketing strategy across social media, content marketing, and PPC advertising helped us achieve 250% of our initial sales targets. Professional, innovative, and results-driven."
               </p>
             </div>
 
@@ -323,7 +323,7 @@ export default function HomePage() {
                 ))}
               </div>
               <p className="text-gray-700 italic">
-                &quot;Apex Creative Studio&apos;s expertise in B2B marketing is exceptional. They redesigned our entire customer acquisition funnel and implemented marketing automation that increased our conversion rates by 180%. Their team feels like an extension of our own marketing department.&quot;
+                "Apex Creative Studio's expertise in B2B marketing is exceptional. They redesigned our entire customer acquisition funnel and implemented marketing automation that increased our conversion rates by 180%. Their team feels like an extension of our own marketing department."
               </p>
             </div>
           </div>
